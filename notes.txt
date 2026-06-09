@@ -1,0 +1,2 @@
+Git staging practice
+Leraning git add command
