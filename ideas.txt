@@ -1,0 +1,3 @@
+project ideas to discuss
+* Farm to Home web application
+* Employee Management Web Application
